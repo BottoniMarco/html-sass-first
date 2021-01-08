@@ -1,0 +1,14 @@
+$colorePreferito: blue;
+
+h1 {
+  background: lime;
+  color: $colorePreferito;
+}
+
+.wrapper {
+  display: flex;
+}
+
+button {
+  background: $colorePreferito
+}

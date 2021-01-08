@@ -1,0 +1,12 @@
+h1 {
+  background: lime;
+  color: blue;
+}
+
+.wrapper {
+  display: flex;
+}
+
+button {
+  background: blue;
+}
